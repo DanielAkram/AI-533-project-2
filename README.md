@@ -1,1 +1,1 @@
-# AI-533-project-2
+# AI_533_Mini_project_2
